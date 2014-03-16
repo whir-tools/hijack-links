@@ -1,6 +1,6 @@
 {
   "name": "whir-hijack-links",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hijack clicks on static and dynamic anchors without needing jquery",
   "main": "index.js",
   "scripts": {

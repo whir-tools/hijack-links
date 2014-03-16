@@ -8,7 +8,7 @@ var hijack = function(){}; // noop
 function tryHijack(evt, elem) {
 	if (elem.tagName && elem.tagName === 'A') {
 		evt.preventDefault(); // hijack link
-		return elem.pathname; // and return its pathname
+		return elem.pathname + elem.search; // and return its pathname & querystring
 	} else {
 		return false;
 	}
