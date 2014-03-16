@@ -1,0 +1,24 @@
+{
+  "name": "whir-hijack-links",
+  "version": "0.0.1",
+  "description": "Hijack clicks on static and dynamic anchors without needing jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whir-tools/hijack-links.git"
+  },
+  "keywords": [
+    "spa",
+    "link",
+    "links"
+  ],
+  "author": "Dan Peddle",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/whir-tools/hijack-links/issues"
+  },
+  "homepage": "https://github.com/whir-tools/hijack-links"
+}
